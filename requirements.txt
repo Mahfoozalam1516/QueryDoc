@@ -10,7 +10,7 @@ matplotlib==3.7.2
 seaborn==0.12.2
 langdetect==1.0.9
 plotly==5.17.0
-wordcloud==1.9.2
+wordcloud
 nltk==3.8.1
 reportlab==4.0.4
 difflib-sequences==1.1.1
