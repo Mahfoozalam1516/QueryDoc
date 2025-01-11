@@ -9,7 +9,7 @@ pandas
 matplotlib==3.7.2
 seaborn==0.12.2
 langdetect==1.0.9
-plotly==5.17.0
+plotly
 wordcloud==1.8.2
 nltk==3.8.1
 reportlab==4.0.4
